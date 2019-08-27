@@ -1,0 +1,63 @@
+{
+  "users": [
+    {
+      "id": "40",
+      "firstName": "Mikko",
+      "age": 40,
+      "companyId": "2"
+    },
+    {
+      "id": "41",
+      "firstName": "Nick",
+      "age": 40,
+      "companyId": "2"
+    },
+    {
+      "firstName": "Hannu",
+      "age": 25,
+      "companyId": "1",
+      "id": "S1TKHzuwl"
+    },
+    {
+      "firstName": "Mahesh",
+      "age": 27,
+      "companyId": "3",
+      "id": "J79O2-kE2"
+    },
+    {
+      "firstName": "Ramesh",
+      "age": 28,
+      "companyId": "3",
+      "id": "3h97HbZUq"
+    },
+    {
+      "firstName": "Suresh",
+      "age": 28,
+      "companyId": "2",
+      "id": "ZlugcFC2b"
+    },
+    {
+      "firstName": "Hannu",
+      "age": 27,
+      "companyId": "3",
+      "id": "-5C4-Qc1c"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Digia",
+      "description": "Digital Service"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "Search Engine"
+    },
+    {
+      "id": "3",
+      "name": "Amazone",
+      "description": "Amazone online shopping"
+    }
+  ]
+}
